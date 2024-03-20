@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">SimpleState</string>
+
+    <string name="counterDisplay">Der Button wurde %d mal geklickt.</string>
+    <string name="buttonTxt">Klick mich</string>
+
+</resources>
